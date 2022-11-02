@@ -2752,6 +2752,7 @@ body, input, select, textarea {
 					background-size: 100% 100%;
 					opacity: 0.25;
 					z-index: 2;
+					
 				}
 
 			.tiles article > a {
@@ -2854,7 +2855,7 @@ body, input, select, textarea {
 				}
 
 				body:not(.is-touch) .tiles article:hover > .image:after {
-					opacity: 0;
+					opacity: 0.25;
 				}
 
 				body:not(.is-touch) .tiles article:hover .content {
