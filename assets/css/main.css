@@ -2696,7 +2696,7 @@ body, input, select, textarea {
 			transition: transform 0.5s ease, opacity 0.5s ease;
 			position: relative;
 			width: calc(33.33333% - 2.5em);
-			margin: 2.5em 0 0 2.5em;
+			margin: 1em 1.25em 0 1.25em;
 		}
 
 			.tiles article > .image {
@@ -2855,7 +2855,7 @@ body, input, select, textarea {
 				}
 
 				body:not(.is-touch) .tiles article:hover > .image:after {
-					opacity: 0.25;
+					opacity: 0.25	;
 				}
 
 				body:not(.is-touch) .tiles article:hover .content {
